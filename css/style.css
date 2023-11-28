@@ -2,7 +2,6 @@
 
 :root {
     --header-main-height: 80px;
-
 }
 
 #header-main {
@@ -32,4 +31,8 @@
 
 #section-main .navbar-nav  li > * {
     color: white;
+}
+
+.my-badge{
+    background-color: var(--bs-link-hover-color);
 }
