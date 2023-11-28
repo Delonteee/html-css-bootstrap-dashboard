@@ -2,7 +2,7 @@
 
 :root {
     --header-main-height: 80px;
-    
+
 }
 
 #header-main {
@@ -27,4 +27,9 @@
 
 #section-main {
     background-image: url(../img/sidebar-bg.png);
+    background-color: #031633;
+}
+
+#section-main .navbar-nav  li > * {
+    color: white;
 }
