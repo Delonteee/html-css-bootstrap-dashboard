@@ -5,7 +5,6 @@
 
 }
 
-
 #header-main {
     height: var(--header-main-height);
 }
@@ -18,3 +17,10 @@
     overflow-y: auto;
 }
 
+#logo-section > img:last-child {
+    height: 60px;
+}
+
+#icon-section .fa-bell {
+    color: var(--bs-warning);
+}
