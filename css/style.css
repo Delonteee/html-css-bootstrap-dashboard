@@ -2,7 +2,7 @@
 
 :root {
     --header-main-height: 80px;
-
+    
 }
 
 #header-main {
@@ -23,4 +23,8 @@
 
 #icon-section .fa-bell {
     color: var(--bs-warning);
+}
+
+#section-main {
+    background-image: url(../img/sidebar-bg.png);
 }
