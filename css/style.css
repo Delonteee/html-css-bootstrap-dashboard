@@ -36,3 +36,12 @@
 .my-badge{
     background-color: var(--bs-link-hover-color);
 }
+
+.my-icon{
+    height: 34px;
+    width: 34px;
+    line-height: 34px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: lightcoral;
+}
